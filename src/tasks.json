@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Buy groceries",
+    "priority": 3,
+    "position": 1
+  },
+  {
+    "name": "Complete Rust project",
+    "priority": 5,
+    "position": 2
+  },
+  {
+    "name": "Call mom",
+    "priority": 4,
+    "position": 3
+  },
+  {
+    "name": "new task",
+    "priority": 5,
+    "position": 4
+  }
+]
